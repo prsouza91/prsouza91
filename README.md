@@ -10,7 +10,7 @@
 
 # ☁️ Cloud Engineer | Infrastructure & Cloud Operations
 
-Profissional de TI com **9+ anos de experiência em Infraestrutura**, atualmente em transição para **Cloud Computing**, com foco em **AWS, Linux, Terraform e Automação**.
+Profissional de TI com **9 anos de experiência em Infraestrutura**, atualmente em transição para **Cloud Computing**, com foco em **AWS, Linux, Terraform e Automação**.
 
 Meu objetivo é atuar como **Cloud Engineer**, **Cloud Operations** ou **Cloud Support Engineer**, desenvolvendo infraestruturas escaláveis, resilientes e baseadas nas boas práticas da AWS.
 
@@ -25,41 +25,10 @@ Principais temas:
 - AWS Architecture
 - Infrastructure as Code (Terraform)
 - Linux Administration
-- Docker
-- Networking
-- Cloud Security
-- High Availability
-- Disaster Recovery
-- Monitoring
-- Git & GitHub
 
 ---
 
-# 🏗️ Projeto em Destaque
 
-## AWS High Availability Infrastructure
-
-Projeto completo desenvolvido durante o programa AWS re/Start simulando um ambiente corporativo.
-
-### Arquitetura
-
-- VPC Multi-AZ
-- Public & Private Subnets
-- EC2
-- Application Load Balancer
-- Auto Scaling Group
-- Amazon RDS PostgreSQL
-- Docker
-- Amazon ECR
-- IAM
-- Security Groups
-- Route 53
-- CloudFront
-- Cloudflare
-- Amazon S3
-- Terraform
-
-Além da implementação da infraestrutura, toda a arquitetura foi documentada utilizando diagramas técnicos e documentação semelhante aos padrões encontrados em ambientes corporativos.
 
 ---
 
@@ -79,14 +48,25 @@ Além da implementação da infraestrutura, toda a arquitetura foi documentada u
 <p align="center">
 
 <a href="https://www.credly.com/">
-<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110"/>
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110"/>
 </a>
 
 </p>
 
 - AWS Certified Cloud Practitioner
+
+<a href="https://www.credly.com/">
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110"/>
+</a>
+
 - Microsoft Azure Fundamentals (AZ-900)
+
+
 - CompTIA Linux+
+
+<a href="https://www.credly.com/">
+<img src="https://images.credly.com/size/340x340/images/cb445202-8e9c-40f5-ae8e-1a7d2a395d67/CompTIA_Linux_2BLPI.png" width="110"/>
+</a>
 
 ---
 
