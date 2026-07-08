@@ -75,7 +75,7 @@ Principais temas:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,bash,git,github,postgres,py,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,linux,bash,git,github,vscode" />
 
 </p>
 
