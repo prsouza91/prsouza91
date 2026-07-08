@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=34&pause=1200&width=750&lines=Olá%2C+eu+sou+Paulo+Ricardo+de+Souza!;Cloud+Engineer+%7C+AWS+%7C+;Infrastructure+%26+Cloud+Operations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=34&pause=1200&width=750&lines=Olá%2C+eu+sou+Paulo+Ricardo+de+Souza!;Cloud+Engineer+%7C+AWS+%7C+Azure+%7C+;Infrastructure+%26+Cloud+Operations" />
 </h1>
 
 <p align="center">
@@ -81,17 +81,7 @@ Principais temas:
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prsouza91&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsouza91&layout=compact&theme=github_dark"/>
-
-</p>
-
----
 
 # 🌎 Conecte-se comigo
 
