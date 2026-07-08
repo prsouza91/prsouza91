@@ -50,18 +50,23 @@ Principais temas:
 - AWS Certified Cloud Practitioner
 
 <a href="https://www.credly.com/">
-<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110"/>
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="900"/>
 </a>
+
+
+
 
 - Microsoft Azure Fundamentals (AZ-900)
 <a href="https://learn.microsoft.com/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3cSI_Dsx2pWlonpWJpbwUC-Eg44Y-FO1wGGTZKd1Hg&s" width="110"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3cSI_Dsx2pWlonpWJpbwUC-Eg44Y-FO1wGGTZKd1Hg&s" width="900"/>
 </a>
+
+
 
 - CompTIA Linux+
 
 <a href="https://www.credly.com/">
-<img src="https://images.credly.com/size/340x340/images/cb445202-8e9c-40f5-ae8e-1a7d2a395d67/CompTIA_Linux_2BLPI.png" width="110"/>
+<img src="https://images.credly.com/size/340x340/images/cb445202-8e9c-40f5-ae8e-1a7d2a395d67/CompTIA_Linux_2BLPI.png" width="900"/>
 </a>
 
 ---
