@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=34&pause=1200&width=750&lines=Olá%2C+eu+sou+Paulo+Ricardo+de+Souza!;Cloud+Engineer+%7C+AWS+Azure+%7C+;Infrastructure+%26+Cloud+Operations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=34&pause=1200&width=750&lines=Olá%2C+eu+sou+Paulo+Ricardo+de+Souza!;Cloud+Engineer+%7C+AWS+| Azure+%7C+;Infrastructure+%26+Cloud+Operations" />
 </h1>
 
 <p align="center">
